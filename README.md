@@ -27,3 +27,6 @@ It’s recommended to run the script with superuser privileges ```(Run as Admini
 ### Download the Script Download the script from the GitHub repository.
 Save the Script Save the script to your desired location on your Windows system.
 Run the Script Open Command Prompt as Administrator and navigate to the script’s directory. Run the script by typing its name and pressing Enter.
+
+
+![Screenshot 2024-05-27 032101](https://github.com/TorranceTech/Windows-Optimization-Batch-Script/assets/170806445/724d2a89-ea45-43ab-b21b-28efdf9d941a)
